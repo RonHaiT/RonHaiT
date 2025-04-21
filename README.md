@@ -20,7 +20,7 @@
 
 <!--END_SECTION:waka-->
 
-[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=birjuvachhani)](https://github.com/birjuvachhani/github-contribution-stats/)
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=ronhait)](https://github-contribution-stats.vercel.app/api/?username=ronhait)
 
 [website]: https://ronhai.com
 [bilibili]: https://space.bilibili.com/30043682
